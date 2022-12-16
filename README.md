@@ -34,10 +34,22 @@ this repository collect some openRAT to help me learn develop.
 15 https://github.com/werkamsus/Lilith
 
 16 https://github.com/5alt/ZeroRAT
+
 17 https://github.com/lu4p/ToRat
+
+18 https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp
+
+19 https://github.com/NYAN-x-CAT/Lime-RAT
+
+20 https://github.com/rossja/TinyNuke
+
+21 https://github.com/xuantungmta/xRAT
+
+22 https://github.com/poruski/LightRAT
+
+
+
 -----------------------------------
-收集自一下博客
-https://blog.51cto.com/u_15072918/4000685
 
 ## Android rat
 SpyNote
